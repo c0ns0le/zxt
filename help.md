@@ -5,10 +5,8 @@ Hello it is introduction
 ## Conclusion
 
 Congratulations!
-Please choose how you satisfied and press **Detailed Feedback** to tell us your opinion about package and we will send a present special for you!
-
-
-
+Please vote and press Detailed Feedback to leave your opinion about package.
+It is important for us!
 
 
 
