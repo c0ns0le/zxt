@@ -12,4 +12,4 @@ Please choose how you satisfied and press **Detailed Feedback** to tell us your 
 
 
 
-<walkthrough-author repositoryurl="javascript://github.com%0aalert(1)"  email="test" tutorialname="test"></walkthrough-author>
+<walkthrough-author repositoryurl="javascript://github.com/%0aalert(1)"  email="test" tutorialname="test"></walkthrough-author>
